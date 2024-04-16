@@ -6,15 +6,15 @@ It uses google maps API to fetch data from MBTA Route 1 buses geolocation in rea
 
 ## How to run
 
-1.- Download or clone the repository to your local machine.
-2.- Navigate to the location.
-3.- Run the index.html file.
+1.- Download or clone the repository to your local machine.<br />
+2.- Navigate to the location.<br />
+3.- Run the index.html file.<br />
 
 ## Improvements
 
-1.- Add Bus IDs for each marker.
-2.- Change colors depending on the route direction.
-3.- Improve the UI of the site.
+1.- Add Bus IDs for each marker.<br />
+2.- Change colors depending on the route direction.<br />
+3.- Improve the UI of the site.<br />
 
 ## License
 
